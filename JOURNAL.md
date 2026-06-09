@@ -23,3 +23,13 @@ In my schematic, I added an XT30 connected with a 5v step down so the esp and ot
 <img width="1177" height="838" alt="image" src="https://github.com/user-attachments/assets/f383ab85-869a-4222-bb6a-131ee5d72331" />
 
 **Total time spent: 5 hours**
+
+# June 9 Routing the PCB
+
+After finishing the schematic, I started pacing components in their respective places and stqarted routing them. This is when I define the PCB demention, and I took a good amount of time finding a proper demention for the flight controller. This was beucase in the future I plan on using Arora for a model rocket with TVC. So, having a compact PCB will deffently make my life a lot more easier in the future. I finally settled on a 2.25in X 3.5in pcb I really hope this is small enough beucase I was not able to fit anything in an even smaller footprint. I finallt started routing the PCB which took me ages. I wanted it to be clean and clear for anyone looking at ARORA. It looks ok... I guess. It was just hard to weave around the components with the traces. So, decided to fill the pcb with GND on the front and back side which ended up helping a ton. 
+
+I was pretty proud with the final routed PCB. This was my first time routing a big PCB like this so it felt good seeing how it turned out! After this all I have left is to create a simple code which can test out all the instraments on my PCB which shouldnt take too long.
+
+<img width="427" height="602" alt="image" src="https://github.com/user-attachments/assets/22a65974-dd18-445b-afbd-470adc93a5ba" />
+
+**Total time spent: 2 hours**
