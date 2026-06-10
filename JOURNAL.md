@@ -33,3 +33,15 @@ I was pretty proud with the final routed PCB. This was my first time routing a b
 <img width="427" height="602" alt="image" src="https://github.com/user-attachments/assets/22a65974-dd18-445b-afbd-470adc93a5ba" />
 
 **Total time spent: 2 hours**
+
+#June 10 TEST code and bill of materials
+
+Today was pretty easy. I spent my time creating a testing firmware where I could simply run after soughtering everything together to figure out if all parts are working. This was a lot more easier then anything else because I am pretty good at coding and because there was a lot of resources online to help me. This program is very simple. All it does is flash all the color lights, buzz the buzzer, get readings from the instruments, test out the pyro channels and actuate the servos. This didnt take me long. 
+
+After that I created the bill of materials for the project. The total came down to around 38 dollars which was not too bad. 
+
+(check out the firmaware page for the full code)
+<img width="403" height="934" alt="image" src="https://github.com/user-attachments/assets/c4e6e39c-e968-40dc-810c-a1865229ca97" />
+
+**Total time spent: 1 hour**
+
