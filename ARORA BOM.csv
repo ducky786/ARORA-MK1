@@ -1,0 +1,11 @@
+Part,Quantity,Cost,Link
+ESP32,1,$9.99,Amazon.com: HiLetgo ESP-WROOM-32 ESP32 ESP-32S Development Board 2.4GHz Dual-Mode WiFi + Bluetooth Dual Cores Microcontroller Processor Integrated with Antenna RF AMP Filter AP STA for Arduino IDE : Electronics
+MPU6050,1,$6.99,HiLetgo GY-521 MPU-6050 MPU6050 3 Axis Accelerometer Gyroscope Module 6 DOF 6-axis Accelerometer Gyroscope Sensor Module 16 Bit AD Converter Data Output IIC I2C for Arduino: Amazon.com: Industrial & Scientific
+BMP180,1,$5.49,HiLetgo BMP180 GY-68 Digital Barometric Pressure Sensor Module Replace BMP085 for Arduino: Amazon.com: Industrial & Scientific
+220 omh resistors,pack 100 min,$0.50,RC1206FR-07220RL | YAGEO | Price | In Stock | LCSC Electronics
+470 ohm resistor,pack 100 min,$0.50,RC0805FR-07470RL | YAGEO | Price | In Stock | LCSC Electronics
+SD card socket,10 min,$0.60,TF-CARD H1.8 | SHOU HAN | Price | In Stock | LCSC Electronics
+buzzer,15min,$7.99,"Amazon.com: UPEYXDQR DC 3V Active Buzzer 2 Terminals 12x9.5mm,Electronic Buzzer 15Pcs : Electronics"
+RGB,1,$5.99,"DIYables RGB LED for Arduino, ESP32, ESP8266, Raspberry Pi, Common Cathode, 50 Pieces: Amazon.com: Industrial & Scientific"
+,,,
+Total,,$38.05,
